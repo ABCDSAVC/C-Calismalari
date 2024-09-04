@@ -1,0 +1,8 @@
+C:\Users\cansu\OneDrive\Masaüstü\c#\kullanıcıdandeğeralma\kullanıcıdandeğeralma\bin\Debug\kullanıcıdandeğeralma.exe.config
+C:\Users\cansu\OneDrive\Masaüstü\c#\kullanıcıdandeğeralma\kullanıcıdandeğeralma\bin\Debug\kullanıcıdandeğeralma.exe
+C:\Users\cansu\OneDrive\Masaüstü\c#\kullanıcıdandeğeralma\kullanıcıdandeğeralma\bin\Debug\kullanıcıdandeğeralma.pdb
+C:\Users\cansu\OneDrive\Masaüstü\c#\kullanıcıdandeğeralma\kullanıcıdandeğeralma\obj\Debug\kullanıcıdandeğeralma.csproj.AssemblyReference.cache
+C:\Users\cansu\OneDrive\Masaüstü\c#\kullanıcıdandeğeralma\kullanıcıdandeğeralma\obj\Debug\kullanıcıdandeğeralma.csproj.SuggestedBindingRedirects.cache
+C:\Users\cansu\OneDrive\Masaüstü\c#\kullanıcıdandeğeralma\kullanıcıdandeğeralma\obj\Debug\kullanıcıdandeğeralma.csproj.CoreCompileInputs.cache
+C:\Users\cansu\OneDrive\Masaüstü\c#\kullanıcıdandeğeralma\kullanıcıdandeğeralma\obj\Debug\kullanıcıdandeğeralma.exe
+C:\Users\cansu\OneDrive\Masaüstü\c#\kullanıcıdandeğeralma\kullanıcıdandeğeralma\obj\Debug\kullanıcıdandeğeralma.pdb

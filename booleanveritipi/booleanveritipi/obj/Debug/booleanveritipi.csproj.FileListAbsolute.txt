@@ -1,0 +1,8 @@
+C:\Users\cansu\OneDrive\Masaüstü\c#\booleanveritipi\booleanveritipi\bin\Debug\booleanveritipi.exe.config
+C:\Users\cansu\OneDrive\Masaüstü\c#\booleanveritipi\booleanveritipi\bin\Debug\booleanveritipi.exe
+C:\Users\cansu\OneDrive\Masaüstü\c#\booleanveritipi\booleanveritipi\bin\Debug\booleanveritipi.pdb
+C:\Users\cansu\OneDrive\Masaüstü\c#\booleanveritipi\booleanveritipi\obj\Debug\booleanveritipi.csproj.AssemblyReference.cache
+C:\Users\cansu\OneDrive\Masaüstü\c#\booleanveritipi\booleanveritipi\obj\Debug\booleanveritipi.csproj.SuggestedBindingRedirects.cache
+C:\Users\cansu\OneDrive\Masaüstü\c#\booleanveritipi\booleanveritipi\obj\Debug\booleanveritipi.csproj.CoreCompileInputs.cache
+C:\Users\cansu\OneDrive\Masaüstü\c#\booleanveritipi\booleanveritipi\obj\Debug\booleanveritipi.exe
+C:\Users\cansu\OneDrive\Masaüstü\c#\booleanveritipi\booleanveritipi\obj\Debug\booleanveritipi.pdb

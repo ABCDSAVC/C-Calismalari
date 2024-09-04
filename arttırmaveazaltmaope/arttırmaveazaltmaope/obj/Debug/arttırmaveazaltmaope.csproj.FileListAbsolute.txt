@@ -1,0 +1,8 @@
+C:\Users\cansu\OneDrive\Masaüstü\c#\arttırmaveazaltmaope\arttırmaveazaltmaope\bin\Debug\arttırmaveazaltmaope.exe.config
+C:\Users\cansu\OneDrive\Masaüstü\c#\arttırmaveazaltmaope\arttırmaveazaltmaope\bin\Debug\arttırmaveazaltmaope.exe
+C:\Users\cansu\OneDrive\Masaüstü\c#\arttırmaveazaltmaope\arttırmaveazaltmaope\bin\Debug\arttırmaveazaltmaope.pdb
+C:\Users\cansu\OneDrive\Masaüstü\c#\arttırmaveazaltmaope\arttırmaveazaltmaope\obj\Debug\arttırmaveazaltmaope.csproj.AssemblyReference.cache
+C:\Users\cansu\OneDrive\Masaüstü\c#\arttırmaveazaltmaope\arttırmaveazaltmaope\obj\Debug\arttırmaveazaltmaope.csproj.SuggestedBindingRedirects.cache
+C:\Users\cansu\OneDrive\Masaüstü\c#\arttırmaveazaltmaope\arttırmaveazaltmaope\obj\Debug\arttırmaveazaltmaope.csproj.CoreCompileInputs.cache
+C:\Users\cansu\OneDrive\Masaüstü\c#\arttırmaveazaltmaope\arttırmaveazaltmaope\obj\Debug\arttırmaveazaltmaope.exe
+C:\Users\cansu\OneDrive\Masaüstü\c#\arttırmaveazaltmaope\arttırmaveazaltmaope\obj\Debug\arttırmaveazaltmaope.pdb

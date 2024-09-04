@@ -1,0 +1,8 @@
+C:\Users\cansu\OneDrive\Masaüstü\c#\ekoperatörler\ekoperatörler\bin\Debug\ekoperatörler.exe.config
+C:\Users\cansu\OneDrive\Masaüstü\c#\ekoperatörler\ekoperatörler\bin\Debug\ekoperatörler.exe
+C:\Users\cansu\OneDrive\Masaüstü\c#\ekoperatörler\ekoperatörler\bin\Debug\ekoperatörler.pdb
+C:\Users\cansu\OneDrive\Masaüstü\c#\ekoperatörler\ekoperatörler\obj\Debug\ekoperatörler.csproj.AssemblyReference.cache
+C:\Users\cansu\OneDrive\Masaüstü\c#\ekoperatörler\ekoperatörler\obj\Debug\ekoperatörler.csproj.SuggestedBindingRedirects.cache
+C:\Users\cansu\OneDrive\Masaüstü\c#\ekoperatörler\ekoperatörler\obj\Debug\ekoperatörler.csproj.CoreCompileInputs.cache
+C:\Users\cansu\OneDrive\Masaüstü\c#\ekoperatörler\ekoperatörler\obj\Debug\ekoperatörler.exe
+C:\Users\cansu\OneDrive\Masaüstü\c#\ekoperatörler\ekoperatörler\obj\Debug\ekoperatörler.pdb

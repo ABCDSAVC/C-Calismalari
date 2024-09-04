@@ -1,0 +1,8 @@
+C:\Users\cansu\OneDrive\Masaüstü\c#\eşittirveeşitdeğildirope\eşittirveeşitdeğildirope\bin\Debug\eşittirveeşitdeğildirope.exe.config
+C:\Users\cansu\OneDrive\Masaüstü\c#\eşittirveeşitdeğildirope\eşittirveeşitdeğildirope\bin\Debug\eşittirveeşitdeğildirope.exe
+C:\Users\cansu\OneDrive\Masaüstü\c#\eşittirveeşitdeğildirope\eşittirveeşitdeğildirope\bin\Debug\eşittirveeşitdeğildirope.pdb
+C:\Users\cansu\OneDrive\Masaüstü\c#\eşittirveeşitdeğildirope\eşittirveeşitdeğildirope\obj\Debug\eşittirveeşitdeğildirope.csproj.AssemblyReference.cache
+C:\Users\cansu\OneDrive\Masaüstü\c#\eşittirveeşitdeğildirope\eşittirveeşitdeğildirope\obj\Debug\eşittirveeşitdeğildirope.csproj.SuggestedBindingRedirects.cache
+C:\Users\cansu\OneDrive\Masaüstü\c#\eşittirveeşitdeğildirope\eşittirveeşitdeğildirope\obj\Debug\eşittirveeşitdeğildirope.csproj.CoreCompileInputs.cache
+C:\Users\cansu\OneDrive\Masaüstü\c#\eşittirveeşitdeğildirope\eşittirveeşitdeğildirope\obj\Debug\eşittirveeşitdeğildirope.exe
+C:\Users\cansu\OneDrive\Masaüstü\c#\eşittirveeşitdeğildirope\eşittirveeşitdeğildirope\obj\Debug\eşittirveeşitdeğildirope.pdb

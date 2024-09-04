@@ -1,0 +1,8 @@
+C:\Users\cansu\OneDrive\Masaüstü\c#\veyaoperatörü\veyaoperatörü\bin\Debug\veyaoperatörü.exe.config
+C:\Users\cansu\OneDrive\Masaüstü\c#\veyaoperatörü\veyaoperatörü\bin\Debug\veyaoperatörü.exe
+C:\Users\cansu\OneDrive\Masaüstü\c#\veyaoperatörü\veyaoperatörü\bin\Debug\veyaoperatörü.pdb
+C:\Users\cansu\OneDrive\Masaüstü\c#\veyaoperatörü\veyaoperatörü\obj\Debug\veyaoperatörü.csproj.AssemblyReference.cache
+C:\Users\cansu\OneDrive\Masaüstü\c#\veyaoperatörü\veyaoperatörü\obj\Debug\veyaoperatörü.csproj.SuggestedBindingRedirects.cache
+C:\Users\cansu\OneDrive\Masaüstü\c#\veyaoperatörü\veyaoperatörü\obj\Debug\veyaoperatörü.csproj.CoreCompileInputs.cache
+C:\Users\cansu\OneDrive\Masaüstü\c#\veyaoperatörü\veyaoperatörü\obj\Debug\veyaoperatörü.exe
+C:\Users\cansu\OneDrive\Masaüstü\c#\veyaoperatörü\veyaoperatörü\obj\Debug\veyaoperatörü.pdb
